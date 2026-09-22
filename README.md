@@ -59,6 +59,9 @@ Docker, Git, GitHub, Vercel, Neon, MongoDB Atlas, Prisma Studio
     Live link: https://plant-hub-app.web.app/
     client-side repository: https://github.com/Mariam091990/plant-hub-client.git
     server-side repository: https://github.com/Mariam091990/plant-hub-server.git
+-[Doctor Appointment Platform]
+  GitHub: https://github.com/Mariam091990
+  Live URL: https://rainbow-arithmetic-6fbcbb.netlify.app/
 - [Stack Builder Website](YOUR_REPOSITORY_LINK)
 - [Kids School](YOUR_REPOSITORY_LINK)
 
