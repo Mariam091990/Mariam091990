@@ -67,6 +67,13 @@ Docker, Git, GitHub, Vercel, Neon, MongoDB Atlas, Prisma Studio
 -[Doctor Appointment Platform]
   GitHub: https://github.com/Mariam091990
   Live URL: https://rainbow-arithmetic-6fbcbb.netlify.app/
+  
+-[Online News Portal]
+GitHub:[View Source Code](https://github.com/Mariam091990/Online-News-Portal.git)
+[View Live Demo](https://dragon-news-top.web.app/)
+
+
+  
 - [Stack Builder Website](YOUR_REPOSITORY_LINK)
 - [Kids School](YOUR_REPOSITORY_LINK)
 
