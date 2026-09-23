@@ -55,10 +55,15 @@ Docker, Git, GitHub, Vercel, Neon, MongoDB Atlas, Prisma Studio
 
 - [Vehicle Rental System]
     Link: https://github.com/Mariam091990/vehicle-rental-with-ERD
+
+
 - [Plant Hub]
-    Live link: https://plant-hub-app.web.app/
+    Live link:  https://plant-hub-server.vercel.app
     client-side repository: https://github.com/Mariam091990/plant-hub-client.git
-    server-side repository: https://github.com/Mariam091990/plant-hub-server.git
+    Server-side repository: https://github.com/Mariam091990/plant-hub-server.git
+
+
+
 -[Doctor Appointment Platform]
   GitHub: https://github.com/Mariam091990
   Live URL: https://rainbow-arithmetic-6fbcbb.netlify.app/
