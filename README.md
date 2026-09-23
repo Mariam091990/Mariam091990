@@ -58,7 +58,7 @@ Docker, Git, GitHub, Vercel, Neon, MongoDB Atlas, Prisma Studio
 
 
 - [Plant Hub]
-    Live link:  https://plant-hub-server.vercel.app
+    Live link: plant-hub-app.web.app
     client-side repository: https://github.com/Mariam091990/plant-hub-client.git
     Server-side repository: https://github.com/Mariam091990/plant-hub-server.git
 
