@@ -139,17 +139,6 @@ A news-focused web application with category-based content and a responsive inte
 
 ---
 
-### 🧩 Stack Builder Website
-
-An interactive developer tool that allows users to explore technologies and build a technology stack.
-
-💻 **[View Repository](https://github.com/Mariam091990)**
-
-**Focus:** React • TypeScript • Vite • Tailwind CSS • DaisyUI
-
----
-
-
 ## 📈 My Learning Focus
 
 I’m currently strengthening my skills in:
