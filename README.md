@@ -122,7 +122,7 @@ A plant management web application with plant information, user-specific feature
 A web application designed around doctor and appointment-related workflows.
 
 🌐 **[Live Demo](https://rainbow-arithmetic-6fbcbb.netlify.app/)**
-💻 **[GitHub](https://github.com/Mariam091990)**
+💻 **[View Source Code](https://github.com/Mariam091990/Doctor-Appointment-Platform.git)**
 
 **Focus:** React • JavaScript • Responsive UI • User Interaction
 
